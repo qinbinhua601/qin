@@ -1,0 +1,9 @@
+{
+    "name": "qin",
+    "main": "main.js",
+    "dependencies": {
+        "alfred-workflow-nodejs": "^1.1.0",
+        "cheerio": "0.20.0",
+        "superagent": "1.7.2"
+    }
+}
